@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:09:32 On 17/02/2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [PCA] of Project [SE842170260.PRJPCB]
+   Generated File[SEYYYYYZZZZ_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:09:59 On 17/02/2023

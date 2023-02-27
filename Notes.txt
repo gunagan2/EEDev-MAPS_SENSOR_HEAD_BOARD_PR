@@ -1,0 +1,10 @@
+Project Notes
+ProjectTemplate
+Designer: 
+
+Notes:
+
+Variants:
+- Standard - All components are included.
+- PCA - All components to be installed on the PCA are included.
+
