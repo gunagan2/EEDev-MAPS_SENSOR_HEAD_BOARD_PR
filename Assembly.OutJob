@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Assembly.OutJob
 Description=
-TargetOutputMedium=Gerbers
+TargetOutputMedium=BOM
 VariantName=PCA
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Xerox AltaLink C8035 PS
+TargetPrinter=\\euprt01\Cramlington08
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Assembly PDFs
 OutputMedium1_Type=Publish
@@ -223,7 +223,7 @@ OutputName6=Gerber Files
 OutputCategory6=Fabrication
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=1
+OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -269,7 +269,7 @@ OutputName9=Bill of Materials
 OutputCategory9=Report
 OutputDocumentPath9=
 OutputVariantName9=PCA
-OutputEnabled9=0
+OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=1
 OutputEnabled9_OutputMedium3=0
@@ -281,7 +281,7 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration9_Name1=ColumnNameFormat
 Configuration9_Item1=CaptionAsName
 Configuration9_Name2=General
-Configuration9_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD22\Templates\BOM_Template.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1536|FormHeight=826|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration9_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Github\BHPPS\EEDev\EEDev-PCB_Project_DefaultFiles\Templates\BHPPS BOM_Template.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1536|FormHeight=826|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration9_Name3=GroupOrder
 Configuration9_Item3=Fitted=True|PII_PartNumber=True
 Configuration9_Name4=OutputConfigurationParameter1
@@ -325,7 +325,7 @@ OutputName11=NC Drill Files
 OutputCategory11=Fabrication
 OutputDocumentPath11=
 OutputVariantName11=
-OutputEnabled11=1
+OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=0
@@ -385,7 +385,7 @@ OutputName14=Pick and Place
 OutputCategory14=Assembly
 OutputDocumentPath14=
 OutputVariantName14=
-OutputEnabled14=1
+OutputEnabled14=0
 OutputEnabled14_OutputMedium1=0
 OutputEnabled14_OutputMedium2=0
 OutputEnabled14_OutputMedium3=0
@@ -400,7 +400,7 @@ OutputName15=ODB++ Files
 OutputCategory15=Fabrication
 OutputDocumentPath15=
 OutputVariantName15=
-OutputEnabled15=1
+OutputEnabled15=0
 OutputEnabled15_OutputMedium1=0
 OutputEnabled15_OutputMedium2=0
 OutputEnabled15_OutputMedium3=0
