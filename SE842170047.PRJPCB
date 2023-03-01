@@ -202,23 +202,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KDFMXEQS
 
 [Document10]
-DocumentPath=SCH\CE842170047_SHEET3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BZPSKUZG
-
-[Document11]
 DocumentPath=SCH\CE842170047_SHEET4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNCZATYM
 
-[Document12]
+[Document11]
 DocumentPath=SCH\CE842170047_SHEET5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUIPFBQQ
 
-[Document13]
+[Document12]
 DocumentPath=SCH\CE842170047_SHEET6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIPYLADE
 
-[Document14]
+[Document13]
 DocumentPath=PCB\DE842170047.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUUHLCOS
 
-[Document15]
+[Document14]
 DocumentPath=Draftsman\PCB1-Assembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAQNPBVJ
 
-[Document16]
+[Document15]
 DocumentPath=Draftsman\PCB1-ManufacturingTable.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAQNPBVL
 
-[Document17]
+[Document16]
 DocumentPath=Draftsman\PCB1-Manufacturing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAQNPBVK
 
-[Document18]
+[Document17]
 DocumentPath=SE842170047.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1739,17 +1722,23 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=AltiumComponents.SVNDbLib/ICs_Special_Purpose
-ComponentDesignItemID0=KK/95312/0195
-ComponentSymbolReference0=LIS3MDL
+ComponentLibraryIdentifier0=AltiumComponents.SVNDbLib/Capacitors
+ComponentDesignItemID0=KK/96159/4501
+ComponentSymbolReference0=CAP_GENERIC
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=AltiumComponents.SVNDbLib/ICs_Special_Purpose
-ComponentDesignItemID1=KK/95312/0196
-ComponentSymbolReference1=AIS2IH
+ComponentLibraryIdentifier1=AltiumComponents.SVNDbLib/ICs_OpAmp
+ComponentDesignItemID1=KK/95312/0244
+ComponentSymbolReference1=AD8572
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=AltiumComponents.SVNDbLib/ICs_OpAmp
+ComponentDesignItemID2=KK/95312/0246
+ComponentSymbolReference2=TS982
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1763,79 +1752,96 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Automotive
+ParameterName0=Amplifiers Per Package
 ParameterUpdate0=1
-ParameterName1=Category
+ParameterName1=Availability
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Code_JEDEC
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Comment
 ParameterUpdate3=1
-ParameterName4=ComponentLink2Description
+ParameterName4=Component Kind
 ParameterUpdate4=1
-ParameterName5=ComponentLink2URL
+ParameterName5=ComponentLink1Description
 ParameterUpdate5=1
-ParameterName6=Description
+ParameterName6=ComponentLink1URL
 ParameterUpdate6=1
-ParameterName7=Device Class L1
+ParameterName7=ComponentLink2Description
 ParameterUpdate7=1
-ParameterName8=Device Class L2
+ParameterName8=ComponentLink2URL
 ParameterUpdate8=1
-ParameterName9=Device Class L3
+ParameterName9=ComponentLink3Description
 ParameterUpdate9=1
-ParameterName10=Digikey Description
+ParameterName10=ComponentLink3URL
 ParameterUpdate10=1
-ParameterName11=Footprint Url
+ParameterName11=DatasheetVersion
 ParameterUpdate11=1
-ParameterName12=Height
+ParameterName12=Description
 ParameterUpdate12=1
-ParameterName13=ID
+ParameterName13=Generic Part Number
 ParameterUpdate13=1
-ParameterName14=Lead Free
+ParameterName14=ID
 ParameterUpdate14=1
-ParameterName15=Library Reference
+ParameterName15=Input Bias Current
 ParameterUpdate15=1
-ParameterName16=Manufacturer
+ParameterName16=Input Offset Voltage
 ParameterUpdate16=1
-ParameterName17=Manufacturer Part Number
+ParameterName17=Iq/Amp
 ParameterUpdate17=1
-ParameterName18=Max Supply Voltage
+ParameterName18=Library Reference
 ParameterUpdate18=1
-ParameterName19=MF_PartNumber
+ParameterName19=Manufacturer
 ParameterUpdate19=1
-ParameterName20=Min Supply Voltage
+ParameterName20=Manufacturer Part Number
 ParameterUpdate20=1
-ParameterName21=Mouser Description
+ParameterName21=MF
 ParameterUpdate21=1
-ParameterName22=Octopart
+ParameterName22=MF_PartNumber
 ParameterUpdate22=1
-ParameterName23=Operating Supply Current
+ParameterName23=Mounting Technology
 ParameterUpdate23=1
-ParameterName24=Package
+ParameterName24=MP
 ParameterUpdate24=1
-ParameterName25=PII_PartNumber
+ParameterName25=Package
 ParameterUpdate25=1
-ParameterName26=Pins
+ParameterName26=PackageDescription
 ParameterUpdate26=1
-ParameterName27=RoHS
+ParameterName27=PackageReference
 ParameterUpdate27=1
-ParameterName28=Sensing Method
+ParameterName28=PackageVersion
 ParameterUpdate28=1
-ParameterName29=Sensor Output
+ParameterName29=PartNumber
 ParameterUpdate29=1
-ParameterName30=Temperature
+ParameterName30=PII_PartNumber
 ParameterUpdate30=1
-ParameterName31=Temperature Range High
+ParameterName31=Pins
 ParameterUpdate31=1
-ParameterName32=Temperature Range Low
+ParameterName32=Price
 ParameterUpdate32=1
-ParameterName33=Voltage
+ParameterName33=Slew Rate
 ParameterUpdate33=1
+ParameterName34=Small Signal Bandwidth
+ParameterUpdate34=1
+ParameterName35=Temperature
+ParameterUpdate35=1
+ParameterName36=Tolerance
+ParameterUpdate36=1
+ParameterName37=V Span Max
+ParameterUpdate37=1
+ParameterName38=V Span Min
+ParameterUpdate38=1
+ParameterName39=Value
+ParameterUpdate39=1
+ParameterName40=Voltage
+ParameterUpdate40=1
 ModelTypeGroup0=PCBLib
 ModelTypeUpdate0=1
 ModelType0=PCBLib
-ModelName0=LGA-12
+ModelName0=C0603
 ModelUpdate0=1
+ModelType1=PCBLib
+ModelName1=SOIC-8
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
