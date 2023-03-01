@@ -615,7 +615,7 @@ Value=
 
 [Parameter65]
 Name=P_Title
-Value=Project Title
+Value=MAPS SENSOR HEAD BOARD PROTO
 
 [Parameter66]
 Name=P_Rev
@@ -627,19 +627,19 @@ Value=
 
 [Parameter68]
 Name=P_PCBManufacturingSafeFileName
-Value=DE842170260
+Value=DE842170047
 
 [Parameter69]
 Name=P_PCBManufacturingPartNumber
-Value=SE/84217/0260
+Value=SE/84217/0047
 
 [Parameter70]
 Name=P_PCBAssemblySafeFileName
-Value=SE842170260
+Value=SE842170047
 
 [Parameter71]
 Name=P_PCBAssemblyPartNumber
-Value=SE/84217/0260
+Value=SE/84217/0047
 
 [Parameter72]
 Name=P_Organization
@@ -663,11 +663,11 @@ Value=Ganeshkumar
 
 [Parameter77]
 Name=P_CircuitDiagramSafeFileName
-Value=CE842170260
+Value=CE842170047
 
 [Parameter78]
 Name=P_CircuitDiagramPartNumber
-Value=CE/84217/0260
+Value=CE/84217/0047
 
 [Configuration1]
 Name=Default Configuration
