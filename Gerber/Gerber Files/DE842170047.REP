@@ -1,0 +1,438 @@
+*************************************************************
+FileName = DE842170047.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Assembly
+      File : DE842170047.GM10
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : DE842170047.GM9
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D16
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DE842170047.GBO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : DE842170047.GM1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DE842170047.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D24
+    D26
+    D28
+    D34
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DE842170047.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D43
+    D45
+    D47
+    D53
+    D55
+    D56
+    D57
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DE842170047.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DE842170047.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DE842170047.GTO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DE842170047.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DE842170047.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D24
+    D26
+    D28
+    D34
+    D58
+    D59
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DE842170047.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D24
+    D26
+    D28
+    D34
+    D58
+    D59
+    D60
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Layer 4
+      File : DE842170047.GP2
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : DE842170047.G2
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : DE842170047.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : DE842170047.GP1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : DE842170047.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : DE842170047.GD1
+
+    Adding Layer      : Board Outline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D68
+    D69
+*************************************************************
+

@@ -354,11 +354,255 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Assembly\P_PCBAssemblySafeFileName_BOM.xlsx
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Gerber\NC Drill Files\DE842170047.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Gerber\Gerber Files\DE842170047.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Gerber\Gerber Files\DE842170047.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Gerber\Gerber Files\DE842170047.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Gerber\Gerber Files\DE842170047.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Gerber\Gerber Files\DE842170047.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Gerber\Gerber Files\DE842170047.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Gerber\Gerber Files\DE842170047.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Gerber\Gerber Files\DE842170047.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Gerber\Gerber Files\DE842170047.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Gerber\Gerber Files\DE842170047.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Gerber\Gerber Files\DE842170047.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Gerber\Gerber Files\DE842170047.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Gerber\Gerber Files\DE842170047.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Gerber\Gerber Files\DE842170047.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Gerber\Gerber Files\DE842170047.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Gerber\Gerber Files\DE842170047.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Gerber\Gerber Files\DE842170047.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Gerber\Gerber Files\DE842170047.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Gerber\Gerber Files\DE842170047.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Gerber\NC Drill Files\DE842170047.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Gerber\Gerber Files\DE842170047.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Gerber\ODB++ Files\DE842170047.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Gerber\Gerber Files\DE842170047.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Gerber\NC Drill Files\DE842170047.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Gerber\Pick and Place\DE842170047.txt
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\board_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\bottom_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Gerber\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Assembly\P_PCBAssemblySafeFileName_BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Assembly\SE842170047_BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument60]
 DocumentPath=Assembly\SEYYYYYZZZZ_BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Gerber\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -1405,7 +1649,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1

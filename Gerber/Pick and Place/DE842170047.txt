@@ -1,0 +1,211 @@
+Altium Designer Pick and Place Locations
+C:\Github\BHPPS\EEDev\EEDev-MAPS_SENSOR_HEAD_BOARD_PR\Gerber\Pick and Place\DE842170047.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/03/23
+Time:       10:39
+Revision:   e5e618bfd1b4f4aaec82797c8238ab68d5de8849
+Variant:    PCA
+Units used: mil
+
+Designator Comment         Layer       Footprint   Center-X(mil) Center-Y(mil) Rotation Description                                        
+X2         KK/95710/0071   TopLayer    SMD_1.6X1.2 3326.772      137.795       0        "CRYSTAL SMD 50MHz 8pF"                            
+R11        KK/96090/0230   TopLayer    R2512       236.220       600.394       90       "RESISTOR 2R 2512 1% 1W"                           
+U13        LM2902          TopLayer    TSSOP-14    974.409       698.819       0        "IC,QUAD OP.AMP,DIP14,ST,LM2902KPWR"               
+U12        LM2902          TopLayer    TSSOP-14    1673.228      698.819       0        "IC,QUAD OP.AMP,DIP14,ST,LM2902KPWR"               
+U11        LM2902          TopLayer    TSSOP-14    1328.740      708.661       0        "IC,QUAD OP.AMP,DIP14,ST,LM2902KPWR"               
+U7         KK/95413/0138   TopLayer    DFN-8       2342.520      738.189       0        "64K I2C SERIAL EEPROM"                            
+D8         KK/95048/0189   TopLayer    SOD-123     2280.512      472.441       0        "DIODE SWITCHING POWER"                            
+D7         KK/95048/0189   TopLayer    SOD-123     2303.149      226.378       0        "DIODE SWITCHING POWER"                            
+D6         KK/95048/0189   TopLayer    SOD-123     2293.307      354.331       0        "DIODE SWITCHING POWER"                            
+C8         KK/96160/0734   TopLayer    C0805       2286.417      610.236       0        CAPACITOR_22uF_20%_6V3_0805                        
+X1         OSCILLATOR_3PIN TopLayer    SC70-3      3267.716      295.276       0        OSCILLATOR,SMD,CMOS,MAXIM,MAX7375AXR805+T          
+C74        KK/96159/4501   TopLayer    C0603       1531.937      136.811       90       CAPACITOR_100nF_+10%_25V_603                       
+C73        KK/96159/0401   TopLayer    C0603       1466.535      136.811       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C72        KK/96159/0401   TopLayer    C0603       1662.740      136.811       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C71        KK/96159/0401   TopLayer    C0603       1597.339      136.811       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C70        KK/96159/0401   TopLayer    C0603       1401.134      136.811       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C69        KK/96159/0469   TopLayer    C0603       1204.929      136.811       90       "CAPACITOR CER 0603 51n1F 10% 25V X5R"             
+C68        KK/96159/4501   TopLayer    C0603       1139.527      136.811       90       CAPACITOR_100nF_+10%_25V_603                       
+C67        KK/96159/0425   TopLayer    C0603       1335.732      136.811       90       "CAPACITOR CER 0603 17n8F 10% 25V X5R"             
+C66        KK/96159/0407   TopLayer    C0603       1270.331      136.811       90       "CAPACITOR CER 0603 11n5F 10% 25V X5R"             
+C65        KK/96159/4501   TopLayer    C0603       1074.985      399.890       90       CAPACITOR_100nF_+10%_25V_603                       
+C64        KK/96159/0401   TopLayer    C0603       1009.583      399.890       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C63        KK/96159/0401   TopLayer    C0603       1205.788      399.890       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C62        KK/96159/0401   TopLayer    C0603       1140.386      399.890       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C61        KK/96159/0401   TopLayer    C0603       944.182       399.890       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C60        KK/96159/4501   TopLayer    C0603       1793.543      136.811       90       CAPACITOR_100nF_+10%_25V_603                       
+C59        KK/96159/0469   TopLayer    C0603       1728.142      136.811       90       "CAPACITOR CER 0603 51n1F 10% 25V X5R"             
+C58        KK/96159/0425   TopLayer    C0603       1924.347      136.811       90       "CAPACITOR CER 0603 17n8F 10% 25V X5R"             
+C57        KK/96159/4501   TopLayer    C0603       1858.945      136.811       90       CAPACITOR_100nF_+10%_25V_603                       
+C56        KK/96159/0401   TopLayer    C0603       1074.126      136.811       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C55        KK/96159/0425   BottomLayer C0603       1458.811      388.520       90       "CAPACITOR CER 0603 17n8F 10% 25V X5R"             
+C54        KK/96159/0401   TopLayer    C0603       1595.866      1077.496      90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C53        KK/96159/0469   BottomLayer C0603       1328.008      388.520       90       "CAPACITOR CER 0603 51n1F 10% 25V X5R"             
+C52        KK/96159/0401   BottomLayer C0603       1393.409      388.520       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C51        KK/96159/0401   TopLayer    C0603       1530.465      1077.496      90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C50        KK/96159/0407   TopLayer    C0603       1334.260      1077.496      90       "CAPACITOR CER 0603 11n5F 10% 25V X5R"             
+C49        KK/96159/4501   TopLayer    C0603       1268.858      1077.496      90       CAPACITOR_100nF_+10%_25V_603                       
+C48        KK/96159/4334   TopLayer    C0603       1465.063      1077.496      90       CAPACITOR_2.2nF_10%_25V_603                        
+C47        KK/96159/3434   TopLayer    C0603       1399.661      1077.496      90       "CAPACITOR CERAMIC 0603 25V 10% X7R 22nF"          
+C46        KK/96159/4334   TopLayer    C0603       877.921       136.811       90       CAPACITOR_2.2nF_10%_25V_603                        
+C45        KK/96159/4334   TopLayer    C0603       812.519       136.811       90       CAPACITOR_2.2nF_10%_25V_603                        
+C44        KK/96159/3434   TopLayer    C0603       1008.724      136.811       90       "CAPACITOR CERAMIC 0603 25V 10% X7R 22nF"          
+C43        KK/96159/4334   TopLayer    C0603       943.323       136.811       90       CAPACITOR_2.2nF_10%_25V_603                        
+C42        KK/96159/4334   BottomLayer C0603       1001.000      388.520       90       CAPACITOR_2.2nF_10%_25V_603                        
+C41        KK/96159/4334   BottomLayer C0603       1197.204      388.520       90       CAPACITOR_2.2nF_10%_25V_603                        
+C40        KK/96159/3434   BottomLayer C0603       1262.606      388.520       90       "CAPACITOR CERAMIC 0603 25V 10% X7R 22nF"          
+C39        KK/96159/4501   BottomLayer C0603       1066.401      388.520       90       CAPACITOR_100nF_+10%_25V_603                       
+C38        KK/96159/4501   BottomLayer C0603       1131.803      388.520       90       CAPACITOR_100nF_+10%_25V_603                       
+C37        KK/96159/2666   TopLayer    C0603       1271.189      399.890       90       CAPACITOR_4u7F_10%_10V_0603                        
+C36        KK/96159/4501   TopLayer    C0603       1454.324      951.071       90       CAPACITOR_100nF_+10%_25V_603                       
+C35        KK/96159/4501   TopLayer    C0603       1519.726      951.071       90       CAPACITOR_100nF_+10%_25V_603                       
+C34        KK/96159/4501   TopLayer    C0603       1585.127      951.071       90       CAPACITOR_100nF_+10%_25V_603                       
+C33        KK/96159/4501   TopLayer    C0603       1258.119      951.071       90       CAPACITOR_100nF_+10%_25V_603                       
+C32        KK/96159/4501   TopLayer    C0603       1323.521      951.071       90       CAPACITOR_100nF_+10%_25V_603                       
+C31        KK/96159/4501   TopLayer    C0603       1388.922      951.071       90       CAPACITOR_100nF_+10%_25V_603                       
+C30        KK/96159/3634   BottomLayer C0603       1469.550      262.094       90       "CAPACITOR CERAMIC 0603 16V 10% X5R 2u2"           
+C29        KK/96159/3634   BottomLayer C0603       1207.944      262.094       90       "CAPACITOR CERAMIC 0603 16V 10% X5R 2u2"           
+C28        KK/96159/4501   BottomLayer C0603       1142.542      262.094       90       CAPACITOR_100nF_+10%_25V_603                       
+C27        KK/96159/4501   BottomLayer C0603       1077.140      262.094       90       CAPACITOR_100nF_+10%_25V_603                       
+C26        KK/96159/0407   BottomLayer C0603       1404.148      262.094       90       "CAPACITOR CER 0603 11n5F 10% 25V X5R"             
+C25        KK/96159/4501   BottomLayer C0603       1338.747      262.094       90       CAPACITOR_100nF_+10%_25V_603                       
+C24        KK/96159/0088   BottomLayer C0603       1273.345      262.094       90       "CAPACITOR CERAMIC 0603 50V 5% NPO 8pF"            
+C23        KK/96159/0088   TopLayer    C0603       1192.717      951.071       90       "CAPACITOR CERAMIC 0603 50V 5% NPO 8pF"            
+C22        KK/96159/3701   TopLayer    C0603       1532.796      399.890       90       CAPACITOR_10uF_10%_10V_0603                        
+C21        KK/96159/4501   TopLayer    C0603       1598.197      399.890       90       CAPACITOR_100nF_+10%_25V_603                       
+C20        KK/96159/4501   TopLayer    C0603       1663.599      399.890       90       CAPACITOR_100nF_+10%_25V_603                       
+C19        KK/96159/4501   TopLayer    C0603       1336.591      399.890       90       CAPACITOR_100nF_+10%_25V_603                       
+C18        KK/96159/3701   TopLayer    C0603       1401.993      399.890       90       CAPACITOR_10uF_10%_10V_0603                        
+C17        KK/96159/4501   TopLayer    C0603       1467.394      399.890       90       CAPACITOR_100nF_+10%_25V_603                       
+C16        KK/96159/0325   TopLayer    C0603       1729.001      399.890       90       "CAPACITOR CER 0603 1n8F 10% 10V X5R"              
+C15        KK/96159/4501   TopLayer    C0603       996.513       951.071       90       CAPACITOR_100nF_+10%_25V_603                       
+C14        KK/96159/0243   TopLayer    C0603       1061.914      951.071       90       "CAPACITOR CER 0603 270pF 10% 50V X5R"             
+C13        KK/96159/2666   TopLayer    C0603       1127.316      951.071       90       CAPACITOR_4u7F_10%_10V_0603                        
+C12        KK/96159/4501   TopLayer    C0603       1794.402      399.890       90       CAPACITOR_100nF_+10%_25V_603                       
+C11        KK/96159/0401   TopLayer    C0603       865.710       951.071       90       "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C10        KK/96159/3634   TopLayer    C0603       931.111       951.071       90       "CAPACITOR CERAMIC 0603 16V 10% X5R 2u2"           
+C9         KK/96159/0401   BottomLayer C0603       1504.604      167.165       180      "CAPACITOR CERAMIC 0603 50V 10% X7R 10nF"          
+C7         KK/96159/4501   TopLayer    C0603       1491.018      856.142       0        CAPACITOR_100nF_+10%_25V_603                       
+C6         KK/96159/3634   BottomLayer C0603       1255.690      167.165       180      "CAPACITOR CERAMIC 0603 16V 10% X5R 2u2"           
+C5         KK/96159/2601   BottomLayer C0603       1380.147      167.165       180      CAPACITOR_1uF_+10%_10V_603                         
+C4         KK/96159/3701   TopLayer    C0603       1117.649      856.142       0        CAPACITOR_10uF_10%_10V_0603                        
+C3         KK/96159/2601   TopLayer    C0603       993.192       856.142       0        CAPACITOR_1uF_+10%_10V_603                         
+C2         KK/96159/3634   TopLayer    C0603       1366.562      856.142       0        "CAPACITOR CERAMIC 0603 16V 10% X5R 2u2"           
+C1         KK/96159/2666   TopLayer    C0603       1242.105      856.142       0        CAPACITOR_4u7F_10%_10V_0603                        
+U10        KK/95312/0245   TopLayer    SOIC-8      442.913       925.197       90       "SINGLE RAIL to RAIL INSTRUMENTATION AMPLIFIER"    
+U9         KK/95312/0245   TopLayer    SOIC-8      452.756       246.063       90       "SINGLE RAIL to RAIL INSTRUMENTATION AMPLIFIER"    
+U8         KK/95312/0245   TopLayer    SOIC-8      442.913       590.551       90       "SINGLE RAIL to RAIL INSTRUMENTATION AMPLIFIER"    
+U6         KK/95312/0196   TopLayer    LGA-12      68.898        590.551       180      "3 AXIS DIGITAL ACCELEROMETER 14BIT"               
+U5         KK/95312/0195   TopLayer    LGA-12      2785.433      285.433       0        "3 AXIS MAGNETIC SENSOR"                           
+U4         KK/95414/0147   TopLayer    LQFP-100    2982.284      757.874       0        "MICROCONTROLLER MCU"                              
+U3         KK/95312/0244   TopLayer    SOIC-8      226.378       925.197       90       "DUAL RAIL to RAIL OP AMP"                         
+U2         KK/95312/0246   TopLayer    SOIC-8_EP   226.378       246.063       90       "DUAL BIPOLAR OPERATIONAL AMPLIFIER"               
+U1         KK/95311/0117   TopLayer    WSON-12     2332.677      915.354       0        "SWITCHING REGULATOR"                              
+R83        KK/96059/0485   BottomLayer R0603       1610.137      628.008       90       "RESISTOR 0603 0.063W 1% 750R"                     
+R82        KK/96059/0478   BottomLayer R0603       1674.137      628.008       90       "RESISTOR 0603 0.063W 1% 634R"                     
+R81        KK/96059/0518   BottomLayer R0603       1482.137      628.008       90       "RESISTOR 0603 0.1W 1% 1K5"                        
+R80        KK/96059/0507   BottomLayer R0603       1546.137      628.008       90       "RESISTOR 0603 0.063W 1% 1K15"                     
+R79        KK/96059/0527   BottomLayer R0603       999.995       785.488       90       "RESISTOR 0603 0.063W 1% 1K87"                     
+R78        KK/96059/0529   BottomLayer R0603       1063.995      785.488       90       "RESISTOR 0603 0.063W 1% 1K96"                     
+R77        KK/96059/0519   BottomLayer R0603       871.995       785.488       90       "RESISTOR 0603 0.063W 1% 1K56"                     
+R76        KK/96059/0485   BottomLayer R0603       935.995       785.488       90       "RESISTOR 0603 0.063W 1% 750R"                     
+R75        KK/96059/0478   BottomLayer R0603       1098.137      628.008       90       "RESISTOR 0603 0.063W 1% 634R"                     
+R74        KK/96059/0518   BottomLayer R0603       1162.137      628.008       90       "RESISTOR 0603 0.1W 1% 1K5"                        
+R73        KK/96059/0507   BottomLayer R0603       970.137       628.008       90       "RESISTOR 0603 0.063W 1% 1K15"                     
+R72        KK/96059/0527   BottomLayer R0603       1034.137      628.008       90       "RESISTOR 0603 0.063W 1% 1K87"                     
+R71        KK/96059/0529   BottomLayer R0603       1354.137      628.008       90       "RESISTOR 0603 0.063W 1% 1K96"                     
+R70        KK/96059/0519   BottomLayer R0603       1418.137      628.008       90       "RESISTOR 0603 0.063W 1% 1K56"                     
+R69        KK/96059/0485   BottomLayer R0603       1226.137      628.008       90       "RESISTOR 0603 0.063W 1% 750R"                     
+R68        KK/96059/0478   BottomLayer R0603       1290.137      628.008       90       "RESISTOR 0603 0.063W 1% 634R"                     
+R67        KK/96059/0527   BottomLayer R0603       1127.995      785.488       90       "RESISTOR 0603 0.063W 1% 1K87"                     
+R66        KK/96059/0519   BottomLayer R0603       1054.436      1002.024      90       "RESISTOR 0603 0.063W 1% 1K56"                     
+R65        KK/96059/0518   BottomLayer R0603       1118.436      1002.024      90       "RESISTOR 0603 0.1W 1% 1K5"                        
+R64        KK/96059/0507   BottomLayer R0603       926.436       1002.024      90       "RESISTOR 0603 0.063W 1% 1K15"                     
+R63        KK/96059/0529   BottomLayer R0603       990.436       1002.024      90       "RESISTOR 0603 0.063W 1% 1K96"                     
+R62        KK/96059/0601   BottomLayer R0603       1310.436      1002.024      90       RESISTOR_10K_1%_0603J_63mW                         
+R61        KK/96059/0601   BottomLayer R0603       1374.436      1002.024      90       RESISTOR_10K_1%_0603J_63mW                         
+R60        KK/96059/4666   BottomLayer R0603       1182.436      1002.024      90       RESISTOR,SMD,0603,0.1W,1%,47K                      
+R59        KK/96059/0501   BottomLayer R0603       1246.436      1002.024      90       RESISTOR_1K0_1%_0603J_63mW                         
+R58        KK/96059/0501   BottomLayer R0603       1319.995      785.488       90       RESISTOR_1K0_1%_0603J_63mW                         
+R57        KK/96059/0000   BottomLayer R0603       1383.995      785.488       90       "ZERO OHM LINK"                                    
+R56        KK/96059/0601   BottomLayer R0603       1191.995      785.488       90       RESISTOR_10K_1%_0603J_63mW                         
+R55        KK/96059/0601   BottomLayer R0603       1255.995      785.488       90       RESISTOR_10K_1%_0603J_63mW                         
+R54        KK/96059/0647   BottomLayer R0603       1575.995      785.488       90       RESISTOR_30K_1%_0603_63mW                          
+R53        KK/96059/0501   BottomLayer R0603       1639.995      785.488       90       RESISTOR_1K0_1%_0603J_63mW                         
+R52        KK/96059/0501   BottomLayer R0603       1447.995      785.488       90       RESISTOR_1K0_1%_0603J_63mW                         
+R51        KK/96059/0000   BottomLayer R0603       1511.995      785.488       90       "ZERO OHM LINK"                                    
+R50        KK/96059/0601   TopLayer    R0603       1366.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R49        KK/96059/0601   TopLayer    R0603       1302.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R48        KK/96059/0609   TopLayer    R0603       1430.252      525.331       90       "RESISTOR 0603 0.063W 1% 12K"                      
+R47        KK/96059/0501   TopLayer    R0603       1558.252      525.331       90       RESISTOR_1K0_1%_0603J_63mW                         
+R46        KK/96059/0501   TopLayer    R0603       1494.252      525.331       90       RESISTOR_1K0_1%_0603J_63mW                         
+R45        KK/96059/0000   TopLayer    R0603       1046.252      525.331       90       "ZERO OHM LINK"                                    
+R44        KK/96059/0000   TopLayer    R0603       982.252       525.331       90       "ZERO OHM LINK"                                    
+R43        KK/96059/0601   TopLayer    R0603       1110.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R42        KK/96059/0601   TopLayer    R0603       1238.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R41        KK/96059/0601   TopLayer    R0603       1174.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R40        KK/96059/0601   TopLayer    R0603       1012.158      1076.512      90       RESISTOR_10K_1%_0603J_63mW                         
+R39        KK/96059/1369   TopLayer    R0603       948.158       1076.512      90       RESISTOR_51R_1%_0603J_63mW                         
+R38        KK/96059/1369   TopLayer    R0603       1076.158      1076.512      90       RESISTOR_51R_1%_0603J_63mW                         
+R37        KK/96059/0601   TopLayer    R0603       1204.158      1076.512      90       RESISTOR_10K_1%_0603J_63mW                         
+R36        KK/96059/0601   TopLayer    R0603       1140.158      1076.512      90       RESISTOR_10K_1%_0603J_63mW                         
+R35        KK/96059/0601   TopLayer    R0603       1686.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R34        KK/96059/0601   TopLayer    R0603       1622.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R33        KK/96059/1369   TopLayer    R0603       1750.252      525.331       90       RESISTOR_51R_1%_0603J_63mW                         
+R32        KK/96059/1369   TopLayer    R0603       884.158       1076.512      90       RESISTOR_51R_1%_0603J_63mW                         
+R31        KK/96059/0601   TopLayer    R0603       1814.252      525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R30        KK/96059/0601   TopLayer    R0603       1131.819      262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R29        KK/96059/0601   TopLayer    R0603       1067.819      262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R28        KK/96059/0601   TopLayer    R0603       1195.819      262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R27        KK/96059/0000   TopLayer    R0603       1323.819      262.252       90       "ZERO OHM LINK"                                    
+R26        KK/96059/0000   TopLayer    R0603       1259.819      262.252       90       "ZERO OHM LINK"                                    
+R25        KK/96059/0000   TopLayer    R0603       811.819       262.252       90       "ZERO OHM LINK"                                    
+R24        KK/96059/1369   BottomLayer R0603       906.137       628.008       90       RESISTOR_51R_1%_0603J_63mW                         
+R23        KK/96059/1369   TopLayer    R0603       875.819       262.252       90       RESISTOR_51R_1%_0603J_63mW                         
+R22        KK/96059/0601   TopLayer    R0603       1003.819      262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R21        KK/96059/0601   TopLayer    R0603       939.819       262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R20        KK/96059/0601   TopLayer    R0603       1771.819      262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R19        KK/96059/0601   TopLayer    R0603       1707.819      262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R18        KK/96059/0601   TopLayer    R0603       1835.819      262.252       90       RESISTOR_10K_1%_0603J_63mW                         
+R17        KK/96059/0601   TopLayer    R0603       918.252       525.331       90       RESISTOR_10K_1%_0603J_63mW                         
+R16        KK/96059/0643   TopLayer    R0603       1899.819      262.252       90       "RESISTOR 0603 0.063W 1% 27K"                      
+R15        KK/96059/0501   TopLayer    R0603       1451.819      262.252       90       RESISTOR_1K0_1%_0603J_63mW                         
+R14        KK/96059/0681   TopLayer    R0603       1387.819      262.252       90       RESISTOR_68K_1%_0603J_63mW                         
+R13        KK/96059/0581   TopLayer    R0603       1515.819      262.252       90       "RESISTOR 0603 0.063W 1% 6K8"                      
+R12        KK/96059/0501   TopLayer    R0603       1643.819      262.252       90       RESISTOR_1K0_1%_0603J_63mW                         
+R10        KK/96059/0501   TopLayer    R0603       1579.819      262.252       90       RESISTOR_1K0_1%_0603J_63mW                         
+R9         KK/96059/0501   TopLayer    R0603       2884.843      68.898        0        RESISTOR_1K0_1%_0603J_63mW                         
+R8         KK/96059/0000   TopLayer    R0603       2758.417      68.898        0        "ZERO OHM LINK"                                    
+R7         KK/96059/0530   TopLayer    R0603       3011.268      68.898        0        RESISTOR_2K_1%_0603J_63m2                          
+R6         KK/96059/0720   TopLayer    R0603       3264.118      68.898        0        RESISTOR_158K_1%_0603J_63mW                        
+R5         KK/96059/0601   TopLayer    R0603       3137.693      68.898        0        RESISTOR_10K_1%_0603J_63mW                         
+R4         KK/96059/1693   TopLayer    R0603       2631.992      68.898        0        "RESISTOR 0603 0.063W 1% 91K"                      
+R3         KK/96059/0701   TopLayer    R0603       2312.992      147.638       0        RESISTOR_100K_1%_0603J_63mW                        
+R2         KK/96059/0601   BottomLayer R0603       1130.249      167.866       180      RESISTOR_10K_1%_0603J_63mW                         
+R1         KK/96059/0725   TopLayer    R0603       2252.716      68.898        0        "RESISTOR 0603 0.063W 0.1% 178K"                   
+PL?        KK/96510/1748   BottomLayer 53307-1471  2992.126      757.874       180      "PLUG HEADER 2x7WAY STRAIGHT MOLEX"                
+PL5        KK/96510/2208   TopLayer    M50-3532042 2096.457      573.425       90       "PLUG,20WAY,STRAIGHT,PITCH 1.27MM,HWN,M50-3532042" 
+PL4        KK/96510/2208   TopLayer    M50-3532042 1998.032      573.425       90       "PLUG,20WAY,STRAIGHT,PITCH 1.27MM,HWN,M50-3532042" 
+PL3        KK/96510/2208   TopLayer    M50-3532042 738.189       573.425       90       "PLUG,20WAY,STRAIGHT,PITCH 1.27MM,HWN,M50-3532042" 
+PL2        KK/96510/2206   TopLayer    M50-3932042 629.921       578.937       90       "PLUG 20WAY RIGHT ANGLE PTH HARWIN"                
+P12        TESTPAD1        TopLayer    P0.8xH0.5   2519.685      826.772       90       "P0.8 X H0.5 X 0.9SM"                              
+P11        TESTPAD1        TopLayer    P0.8xH0.5   2519.685      669.291       0        "P0.8 X H0.5 X 0.9SM"                              
+P10        TESTPAD1        TopLayer    P0.8xH0.5   2549.213      541.339       90       "P0.8 X H0.5 X 0.9SM"                              
+P9         TESTPAD1        TopLayer    P0.8xH0.5   2480.315      511.811       0        "P0.8 X H0.5 X 0.9SM"                              
+P8         TESTPAD1        TopLayer    P0.8xH0.5   2657.480      403.543       0        "P0.8 X H0.5 X 0.9SM"                              
+P7         TESTPAD1        TopLayer    P0.8xH0.5   2490.157      974.409       0        "P0.8 X H0.5 X 0.9SM"                              
+P6         TESTPAD1        TopLayer    P0.8xH0.5   2864.173      147.638       0        "P0.8 X H0.5 X 0.9SM"                              
+P5         TESTPAD1        TopLayer    P0.8xH0.5   2696.850      167.323       0        "P0.8 X H0.5 X 0.9SM"                              
+P4         TESTPAD1        TopLayer    P0.8xH0.5   2470.472      403.543       0        "P0.8 X H0.5 X 0.9SM"                              
+P3         TESTPAD1        TopLayer    P0.8xH0.5   2549.213      442.913       0        "P0.8 X H0.5 X 0.9SM"                              
+P2         TESTPAD1        TopLayer    P0.8xH0.5   3139.764      226.378       0        "P0.8 X H0.5 X 0.9SM"                              
+P1         TESTPAD1        TopLayer    P0.8xH0.5   3031.496      226.378       0        "P0.8 X H0.5 X 0.9SM"                              
+L1         KK/97900/1033   TopLayer    L0603       2505.567      68.898        0        "FERRIT BEADS 0603 600R 0.5A 25%"                  
+D5         KK/95070/0036   TopLayer    ESD0402     2982.284      127.953       0        "SUPPRESSOR ESD,SMD,0402,12VDC,LIF,PGB1010402"     
+D4         KK/95070/0036   TopLayer    ESD0402     2795.276      118.110       0        "SUPPRESSOR ESD,SMD,0402,12VDC,LIF,PGB1010402"     
+D3         KK/95070/0036   TopLayer    ESD0402     3061.024      127.953       0        "SUPPRESSOR ESD,SMD,0402,12VDC,LIF,PGB1010402"     
+D2         KK/95070/0036   TopLayer    ESD0402     3159.449      127.953       0        "SUPPRESSOR ESD,SMD,0402,12VDC,LIF,PGB1010402"     
+D1         KK/95070/0035   TopLayer    R0603       2550.197      295.276       0        TVS,SMD,LITTLEFUSE,V26MLA0603N[20-26V]             
