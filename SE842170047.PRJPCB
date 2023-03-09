@@ -169,6 +169,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
+DocumentPath=PCB\DE842170047.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UUUHLCOS
+
+[Document9]
 DocumentPath=SCH\CE842170047_SHEET1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NHSDPOWM
 
-[Document9]
+[Document10]
 DocumentPath=SCH\CE842170047_SHEET2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDFMXEQS
 
-[Document10]
+[Document11]
 DocumentPath=SCH\CE842170047_SHEET4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNCZATYM
 
-[Document11]
+[Document12]
 DocumentPath=SCH\CE842170047_SHEET5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUIPFBQQ
 
-[Document12]
+[Document13]
 DocumentPath=SCH\CE842170047_SHEET6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,23 +269,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIPYLADE
-
-[Document13]
-DocumentPath=PCB\DE842170047.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UUUHLCOS
 
 [Document14]
 DocumentPath=Draftsman\PCB1-Assembly.PCBDwf
